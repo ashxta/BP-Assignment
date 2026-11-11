@@ -1,0 +1,1 @@
+Corrected final assignments for all five students. Q3 Twenty Statements Test contains exactly 10 statements, numbered once from 1 to 10. Reflections recalculate the category counts from those ten statements. Flowcharts are embedded with centered italic figure captions below them. Opening pages, borders, font sizes and assignment page breaks follow the approved format.
